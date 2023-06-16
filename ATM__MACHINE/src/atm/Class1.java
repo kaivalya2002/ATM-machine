@@ -1,6 +1,7 @@
 package atm;
 import java.text.DecimalFormat;
 import java.util.*;
+import java.util.Scanner;
 
 public class Class1 extends Class2 {
       
